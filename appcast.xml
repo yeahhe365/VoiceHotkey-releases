@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>VoiceHotkey</title>
+    <link>https://yeahhe365.github.io/VoiceHotkey/appcast.xml</link>
+    <description>VoiceHotkey update feed</description>
+    <language>en</language>
+    <!--
+      This placeholder has no enclosure. After your first notarized DMG:
+        make dmg && make notarize
+        bash scripts/build-appcast.sh dist/VoiceHotkey-0.9.0.dmg
+      Then host the DMG + this file (GitHub Releases + Pages).
+      See docs/UPDATES.md.
+    -->
+  </channel>
+</rss>
