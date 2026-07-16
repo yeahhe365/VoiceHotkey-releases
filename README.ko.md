@@ -88,9 +88,10 @@ VH_UPDATE_BASE_URL=https://github.com/yeahhe365/VoiceHotkey-releases/releases/do
 ## 라이선스 및 약관
 
 VoiceHotkey 는 독점 상용 소프트웨어입니다. 설치 파일을 받는 것만으로 제품 라이선스/약관을 넘는 권한이 부여되지 않습니다.  
-[요금제](https://voicehotkey.pages.dev/docs/ko/getting-started/plans/), [개인정보](https://voicehotkey.pages.dev/docs/ko/privacy/policy/).
+[LICENSE](LICENSE) · [NOTICE](NOTICE.md), [요금제](https://voicehotkey.pages.dev/docs/ko/getting-started/plans/), [개인정보](https://voicehotkey.pages.dev/docs/ko/privacy/policy/).
 
 ## 지원
 
 - 버그·사용 문의 → [연락처](https://voicehotkey.pages.dev/docs/ko/support/contact/)
-- 이 저장소는 **배포 전용**입니다. 다운로드 링크 파손·자산 누락이 아니면 제품 Issue 를 남기지 마세요
+- 다운로드 링크 파손·자산 누락 → [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions)
+- 이 저장소는 **배포 전용**입니다. 기능 요청은 설명서의 연락 채널을 이용해 주세요

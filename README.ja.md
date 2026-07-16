@@ -88,9 +88,10 @@ VH_UPDATE_BASE_URL=https://github.com/yeahhe365/VoiceHotkey-releases/releases/do
 ## ライセンスと条項
 
 VoiceHotkey はプロプライエタリ商用ソフトウェアです。インストーラーの入手は、製品ライセンス / 利用規約を超える権利を与えません。  
-[プラン](https://voicehotkey.pages.dev/docs/ja/getting-started/plans/)、[プライバシー](https://voicehotkey.pages.dev/docs/ja/privacy/policy/)。
+本リポジトリの [LICENSE](LICENSE) · [NOTICE](NOTICE.md)、および [プラン](https://voicehotkey.pages.dev/docs/ja/getting-started/plans/)、[プライバシー](https://voicehotkey.pages.dev/docs/ja/privacy/policy/)。
 
 ## サポート
 
 - 不具合・使い方 → [お問い合わせ](https://voicehotkey.pages.dev/docs/ja/support/contact/)
-- 本リポジトリは**配布専用**です。ダウンロード破損・アセット欠落以外の製品 Issue はご遠慮ください
+- ダウンロード破損・アセット欠落 → [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions)
+- 本リポジトリは**配布専用**です。機能要望はマニュアルの連絡先をご利用ください

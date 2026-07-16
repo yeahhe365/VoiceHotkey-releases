@@ -88,9 +88,10 @@ Ver manual: [Actualizaciones](https://voicehotkey.pages.dev/docs/es/advanced/upd
 ## Licencia y términos
 
 VoiceHotkey es software comercial propietario. Descargar el instalador no otorga derechos más allá de la licencia / términos del producto.  
-[Planes](https://voicehotkey.pages.dev/docs/es/getting-started/plans/), [Privacidad](https://voicehotkey.pages.dev/docs/es/privacy/policy/).
+Ver [LICENSE](LICENSE) · [NOTICE](NOTICE.md), [Planes](https://voicehotkey.pages.dev/docs/es/getting-started/plans/), [Privacidad](https://voicehotkey.pages.dev/docs/es/privacy/policy/).
 
 ## Soporte
 
 - Errores y uso → [Contacto](https://voicehotkey.pages.dev/docs/es/support/contact/)
-- Este repo es solo de **distribución**; no abras issues de producto aquí salvo enlaces rotos o assets faltantes
+- Enlaces rotos / assets faltantes → [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions)
+- Este repo es solo de **distribución**; para funciones nuevas usa los canales del manual

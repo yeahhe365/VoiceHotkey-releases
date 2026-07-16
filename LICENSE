@@ -1,0 +1,68 @@
+VoiceHotkey Proprietary Software License
+Copyright (c) 2026 yeahhe365. All rights reserved.
+
+IMPORTANT: This is commercial software. Downloadable installers and the
+VoiceHotkey application are NOT open source under the MIT License for the
+current product line.
+
+1. Grant of License
+   Subject to purchase of a valid VoiceHotkey license (or an active trial),
+   yeahhe365 grants you a non-exclusive, non-transferable license to install
+   and use the VoiceHotkey application on devices you own or control, solely
+   for your personal or internal business purposes, in accordance with the
+   plan entitlements associated with your license key.
+
+2. Restrictions
+   You may not, except as expressly permitted by law:
+   (a) redistribute, sublicense, rent, lease, or sell the Software or license
+       keys to third parties without written permission;
+   (b) remove or alter copyright, trademark, or proprietary notices;
+   (c) use the Software to provide a competing hosted service that
+       substantially replicates VoiceHotkey without a commercial agreement;
+   (d) reverse engineer the Software solely for the purpose of circumventing
+       license, trial, or entitlement checks.
+
+3. This Repository
+   This repository (VoiceHotkey-releases) distributes official macOS installer
+   packages (for example DMG assets on GitHub Releases). Possession of an
+   installer does not grant a right to redistribute binaries, re-host
+   installers for commercial gain, or operate a commercial fork without a
+   separate written agreement.
+
+4. Third-Party Services
+   VoiceHotkey may call third-party speech recognition and large language
+   model APIs using credentials you provide (BYOK). Those services are
+   governed by their own terms and privacy policies. You are responsible for
+   API usage costs and compliance with those providers.
+
+5. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. Limitation of Liability
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+   OTHER DEALINGS IN THE SOFTWARE. This includes, without limitation, any
+   actions executed via hotkey injection or optional shell commands.
+
+7. Trial
+   Unlicensed installations may run a time-limited trial with full Pro
+   features. After the trial ends, Free-tier limitations apply until a valid
+   license key is activated.
+
+8. Termination
+   This license terminates automatically if you breach these terms. Upon
+   termination you must cease use of commercial entitlements. Free-tier use
+   may continue subject to remaining restrictions.
+
+9. Historical Code
+   Earlier public snapshots of this project may have been released under the
+   MIT License. Those historical snapshots remain under their original terms.
+   This file governs the current and future commercial product line unless a
+   different written agreement applies.
+
+Product site & support:
+  https://voicehotkey.pages.dev/
+  https://voicehotkey.pages.dev/docs/support/contact/

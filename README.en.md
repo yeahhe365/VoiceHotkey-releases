@@ -89,9 +89,10 @@ See the handbook: [Updates](https://voicehotkey.pages.dev/docs/en/advanced/updat
 ## License & terms
 
 VoiceHotkey is proprietary commercial software. Installing a binary does not grant rights beyond the product license / terms.  
-See [Plans](https://voicehotkey.pages.dev/docs/en/getting-started/plans/) and [Privacy](https://voicehotkey.pages.dev/docs/en/privacy/policy/).
+See [LICENSE](LICENSE) · [NOTICE](NOTICE.md), plus [Plans](https://voicehotkey.pages.dev/docs/en/getting-started/plans/) and [Privacy](https://voicehotkey.pages.dev/docs/en/privacy/policy/).
 
 ## Support
 
 - Bugs & usage questions → [Contact](https://voicehotkey.pages.dev/docs/en/support/contact/)
-- This repo is for **distribution only**; please do not file product issues here unless they are about broken download links or missing assets
+- Broken download links / missing assets → [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions)
+- This repo is for **distribution only**; please use handbook contact channels for product feature requests

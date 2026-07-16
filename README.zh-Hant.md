@@ -88,9 +88,10 @@ VH_UPDATE_BASE_URL=https://github.com/yeahhe365/VoiceHotkey-releases/releases/do
 ## 授權與條款
 
 VoiceHotkey 為專有商業軟體。下載安裝包並不授予超出產品授權 / 使用條款的權利。  
-說明見手冊：[方案](https://voicehotkey.pages.dev/docs/zh-tw/getting-started/plans/)、[隱私](https://voicehotkey.pages.dev/docs/zh-tw/privacy/policy/)。
+見本倉 [LICENSE](LICENSE) · [NOTICE](NOTICE.md)，以及手冊：[方案](https://voicehotkey.pages.dev/docs/zh-tw/getting-started/plans/)、[隱私](https://voicehotkey.pages.dev/docs/zh-tw/privacy/policy/)。
 
 ## 支援
 
 - 使用問題與缺陷 → [聯絡與回饋](https://voicehotkey.pages.dev/docs/zh-tw/support/contact/)
-- 本倉僅用於**分發**；除非是下載連結損壞或資源缺失，請勿在此提產品 Issue
+- 下載連結損壞、資源缺失 → 可在本倉 [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions) 回饋
+- 本倉僅用於**分發**；產品功能需求請走手冊中的聯絡管道
