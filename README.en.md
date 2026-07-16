@@ -1,11 +1,11 @@
 # VoiceHotkey Releases
 
-[![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://github.com/yeahhe365/VoiceHotkey)
-[![Source](https://img.shields.io/badge/source-VoiceHotkey-blue.svg)](https://github.com/yeahhe365/VoiceHotkey)
+[![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://github.com/yeahhe365/VoiceHotkey-releases)
+[![Docs](https://img.shields.io/badge/docs-voicehotkey.pages.dev-blue.svg)](https://voicehotkey.pages.dev/docs/)
 
 **Language:** [中文](README.md) | English
 
-Official **download / installer** repository for [VoiceHotkey](https://github.com/yeahhe365/VoiceHotkey).
+Official **download / installer** repository for VoiceHotkey.
 
 > **Installers are published only via [GitHub Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases).**  
 > This repo does **not** commit `.dmg` / `.app` binaries into git history.
@@ -16,8 +16,8 @@ Official **download / installer** repository for [VoiceHotkey](https://github.co
 |--|--|
 | **Latest release** | [Releases · Latest](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest) |
 | **All versions** | [Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases) |
-| **Source code** | [yeahhe365/VoiceHotkey](https://github.com/yeahhe365/VoiceHotkey) |
-| **Issues / feedback** | Please open issues on the [source repository](https://github.com/yeahhe365/VoiceHotkey/issues) |
+| **User manual** | [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/) |
+| **Support** | [Contact](https://voicehotkey.pages.dev/docs/en/support/contact/) |
 
 ### Recommended install
 
@@ -26,7 +26,7 @@ Official **download / installer** repository for [VoiceHotkey](https://github.co
 3. Open the DMG, drag **VoiceHotkey** into **Applications**.
 4. Launch from `/Applications` (or `~/Applications`) and grant **Accessibility** + **Microphone** when prompted.
 
-Optional: verify the published SHA-256 in the release notes before installing.
+Optional: verify the published SHA-256 in the release notes before installing. See also [Install & permissions](https://voicehotkey.pages.dev/docs/en/getting-started/install/).
 
 ## What belongs here
 
@@ -38,7 +38,7 @@ Optional: verify the published SHA-256 in the release notes before installing.
 
 ## What does **not** belong here
 
-- Application **source code** → [VoiceHotkey](https://github.com/yeahhe365/VoiceHotkey)
+- Application source code (this repo is distribution only)
 - Signing secrets, notary credentials, Sparkle **private** EdDSA key
 - Git commits that add large `.dmg` / `.app` blobs (use **Release assets** only)
 
@@ -46,7 +46,7 @@ Optional: verify the published SHA-256 in the release notes before installing.
 
 - Tag format: `vX.Y.Z` (e.g. `v0.9.0`)
 - Asset name: `VoiceHotkey-X.Y.Z.dmg`
-- Aligns with `CFBundleShortVersionString` in the source repo’s `Info.plist`
+- Aligns with `CFBundleShortVersionString` in the app’s `Info.plist`
 
 Direct asset URL pattern:
 
@@ -56,17 +56,7 @@ https://github.com/yeahhe365/VoiceHotkey-releases/releases/download/vX.Y.Z/Voice
 
 ## Publisher workflow (maintainers)
 
-Build and notarize in the **source** repository, then publish here:
-
-```bash
-# In yeahhe365/VoiceHotkey
-export VH_SIGN_IDENTITY="Developer ID Application: …"
-export VH_NOTARY_PROFILE=VH_NOTARY
-make release-dmg
-
-# Upload to this repo’s Releases
-bash scripts/publish-release.sh
-```
+Build and notarize in the **product source tree**, then publish here (e.g. via that tree’s `scripts/publish-release.sh`).
 
 Sparkle appcast base URL should point at this repo:
 
@@ -75,14 +65,14 @@ VH_UPDATE_BASE_URL=https://github.com/yeahhe365/VoiceHotkey-releases/releases/do
   make appcast
 ```
 
-See [docs/UPDATES.md](https://github.com/yeahhe365/VoiceHotkey/blob/main/docs/UPDATES.md) in the source repo.
+User-facing update notes: [Updates](https://voicehotkey.pages.dev/docs/en/advanced/updates/).
 
 ## License & terms
 
-VoiceHotkey is proprietary commercial software. Installing a binary does not grant rights beyond those in the product license / [TERMS](https://github.com/yeahhe365/VoiceHotkey/blob/main/docs/TERMS.md).  
-Source, license text, and commercial notes live in the [main repository](https://github.com/yeahhe365/VoiceHotkey).
+VoiceHotkey is proprietary commercial software. Installing a binary does not grant rights beyond the product license and the privacy/terms summaries in the user manual.  
+See [Privacy policy](https://voicehotkey.pages.dev/docs/en/privacy/policy/).
 
 ## Support
 
-- Bugs & features → [VoiceHotkey Issues](https://github.com/yeahhe365/VoiceHotkey/issues)
+- Bugs, features, and product questions → [Contact](https://voicehotkey.pages.dev/docs/en/support/contact/)
 - This repo is for **distribution only**; please do not file product issues here unless they are about broken download links or missing assets.
