@@ -31,9 +31,6 @@
 
 macOS **语音输入**：按住（或短按）热键说话，识别完成后将文字插入当前光标。支持本机模型、云端识别、语音命令、翻译润色、文件转写与本机历史。
 
-<p align="center">
-  <img src="assets/preview-zh.png" alt="识别完成后，文字已插入光标位置" width="840" />
-</p>
 
 - **产品官网**：[voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **用户手册**：[voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/)

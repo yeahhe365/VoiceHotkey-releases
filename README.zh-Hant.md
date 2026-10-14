@@ -31,9 +31,6 @@
 
 macOS **語音輸入**：按住（或短按）熱鍵說話，識別完成後將文字插入目前游標。支援本機模型、雲端識別、語音指令、翻譯潤色、檔案轉寫與本機歷史。
 
-<p align="center">
-  <img src="assets/preview-zh.png" alt="語音辨識完成後，文字已插入游標位置" width="840" />
-</p>
 
 - **產品官網**：[voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **使用手冊**：[voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/zh-tw/)

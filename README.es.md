@@ -31,9 +31,6 @@ Repositorio **oficial de descarga / instaladores** de [VoiceHotkey](https://voic
 
 **Escritura por voz** en macOS: mantén o pulsa un atajo, habla e inserta el texto reconocido en el cursor. Admite modelos locales, reconocimiento en la nube, comandos de voz, traducción y pulido, transcripción de archivos e historial local.
 
-<p align="center">
-  <img src="assets/preview-en.png" alt="El texto reconocido ya está insertado" width="840" />
-</p>
 
 - **Sitio del producto:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **Manual de usuario:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/es/)

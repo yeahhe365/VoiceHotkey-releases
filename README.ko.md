@@ -31,9 +31,6 @@
 
 macOS **음성 입력**: 단축키를 길게 누르거나 탭해 말하면 인식된 텍스트가 커서 위치에 삽입됩니다. 기기 내 모델, 클라우드 인식, 음성 명령, 번역 및 문장 다듬기, 파일 전사와 로컬 기록을 지원합니다.
 
-<p align="center">
-  <img src="assets/preview-en.png" alt="음성 인식 텍스트가 입력된 상태" width="840" />
-</p>
 
 - **제품 사이트:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **사용 설명서:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/ko/)

@@ -31,9 +31,6 @@ Offizielles **Download-/Installer-Repository** für [VoiceHotkey](https://voiceh
 
 macOS-**Spracheingabe**: Hotkey halten oder antippen, sprechen und den erkannten Text an der Cursorposition einfügen. Unterstützt lokale Modelle, Cloud-Erkennung, Sprachbefehle, Übersetzung und Textoptimierung, Dateitranskription und lokale Historie.
 
-<p align="center">
-  <img src="assets/preview-en.png" alt="Die erkannte Spracheingabe wurde eingefügt" width="840" />
-</p>
 
 - **Produktseite:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **Handbuch:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/de/)

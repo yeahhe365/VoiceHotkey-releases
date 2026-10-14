@@ -31,9 +31,6 @@ Official **download / installer** repository for [VoiceHotkey](https://voicehotk
 
 macOS **voice typing**: hold or tap a hotkey, speak, and insert the recognized text at the caret. Supports on-device models, cloud recognition, voice commands, translation and polishing, file transcription, and local history.
 
-<p align="center">
-  <img src="assets/preview-en.png" alt="VoiceHotkey confirms that recognized text was inserted" width="840" />
-</p>
 
 - **Product site:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **User handbook:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/en/)
