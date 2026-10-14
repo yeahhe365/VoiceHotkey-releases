@@ -1,4 +1,15 @@
-# VoiceHotkey 릴리스 (설치 파일)
+<p align="center">
+  <img src="assets/app-icon.png" alt="VoiceHotkey 앱 아이콘" width="88" />
+</p>
+
+<h1 align="center">VoiceHotkey</h1>
+
+<p align="center"><strong>단축키를 누르고 말하면 macOS에 입력됩니다</strong></p>
+
+<p align="center">
+  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>최신 버전 다운로드</strong></a> ·
+  <a href="https://voicehotkey.pages.dev/docs/ko/getting-started/install/">설치 가이드</a>
+</p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voicehotkey.pages.dev/)
 [![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
@@ -19,6 +30,10 @@
 ## 제품 소개
 
 macOS **음성 입력**: 단축키를 길게 누르거나 탭해 말하면 인식된 텍스트가 커서 위치에 삽입됩니다. 기기 내 모델, 클라우드 인식, 음성 명령, 번역 및 문장 다듬기, 파일 전사와 로컬 기록을 지원합니다.
+
+<p align="center">
+  <img src="assets/preview-en.png" alt="음성 인식 텍스트가 입력된 상태" width="840" />
+</p>
 
 - **제품 사이트:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **사용 설명서:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/ko/)

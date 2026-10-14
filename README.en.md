@@ -1,4 +1,15 @@
-# VoiceHotkey Releases
+<p align="center">
+  <img src="assets/app-icon.png" alt="VoiceHotkey app icon" width="88" />
+</p>
+
+<h1 align="center">VoiceHotkey</h1>
+
+<p align="center"><strong>Speak to type on macOS</strong></p>
+
+<p align="center">
+  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>Download latest</strong></a> ·
+  <a href="https://voicehotkey.pages.dev/docs/en/getting-started/install/">Install guide</a>
+</p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voicehotkey.pages.dev/)
 [![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
@@ -19,6 +30,10 @@ Official **download / installer** repository for [VoiceHotkey](https://voicehotk
 ## About the product
 
 macOS **voice typing**: hold or tap a hotkey, speak, and insert the recognized text at the caret. Supports on-device models, cloud recognition, voice commands, translation and polishing, file transcription, and local history.
+
+<p align="center">
+  <img src="assets/preview-en.png" alt="VoiceHotkey confirms that recognized text was inserted" width="840" />
+</p>
 
 - **Product site:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **User handbook:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/en/)

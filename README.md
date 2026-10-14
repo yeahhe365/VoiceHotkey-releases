@@ -1,4 +1,15 @@
-# VoiceHotkey 安装包发布仓
+<p align="center">
+  <img src="assets/app-icon.png" alt="VoiceHotkey 应用图标" width="88" />
+</p>
+
+<h1 align="center">VoiceHotkey</h1>
+
+<p align="center"><strong>按下快捷键，说话即可输入</strong></p>
+
+<p align="center">
+  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>下载最新版</strong></a> ·
+  <a href="https://voicehotkey.pages.dev/docs/getting-started/install/">安装指南</a>
+</p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voicehotkey.pages.dev/)
 [![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
@@ -19,6 +30,10 @@
 ## 产品简介
 
 macOS **语音输入**：按住（或短按）热键说话，识别完成后将文字插入当前光标。支持本机模型、云端识别、语音命令、翻译润色、文件转写与本机历史。
+
+<p align="center">
+  <img src="assets/preview-zh.png" alt="识别完成后，文字已插入光标位置" width="840" />
+</p>
 
 - **产品官网**：[voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **用户手册**：[voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/)

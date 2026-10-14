@@ -1,4 +1,15 @@
-# VoiceHotkey Releases (instaladores)
+<p align="center">
+  <img src="assets/app-icon.png" alt="Icono de la aplicación VoiceHotkey" width="88" />
+</p>
+
+<h1 align="center">VoiceHotkey</h1>
+
+<p align="center"><strong>Habla con un atajo y escribe en macOS</strong></p>
+
+<p align="center">
+  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>Descargar la última versión</strong></a> ·
+  <a href="https://voicehotkey.pages.dev/docs/es/getting-started/install/">Guía de instalación</a>
+</p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voicehotkey.pages.dev/)
 [![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
@@ -19,6 +30,10 @@ Repositorio **oficial de descarga / instaladores** de [VoiceHotkey](https://voic
 ## Sobre el producto
 
 **Escritura por voz** en macOS: mantén o pulsa un atajo, habla e inserta el texto reconocido en el cursor. Admite modelos locales, reconocimiento en la nube, comandos de voz, traducción y pulido, transcripción de archivos e historial local.
+
+<p align="center">
+  <img src="assets/preview-en.png" alt="El texto reconocido ya está insertado" width="840" />
+</p>
 
 - **Sitio del producto:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **Manual de usuario:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/es/)

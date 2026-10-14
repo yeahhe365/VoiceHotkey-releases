@@ -1,4 +1,15 @@
-# VoiceHotkey Releases (Installer)
+<p align="center">
+  <img src="assets/app-icon.png" alt="VoiceHotkey-Appsymbol" width="88" />
+</p>
+
+<h1 align="center">VoiceHotkey</h1>
+
+<p align="center"><strong>Mit einem Tastenkürzel sprechen und auf macOS tippen</strong></p>
+
+<p align="center">
+  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>Neueste Version herunterladen</strong></a> ·
+  <a href="https://voicehotkey.pages.dev/docs/de/getting-started/install/">Installationsanleitung</a>
+</p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voicehotkey.pages.dev/)
 [![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
@@ -19,6 +30,10 @@ Offizielles **Download-/Installer-Repository** für [VoiceHotkey](https://voiceh
 ## Über das Produkt
 
 macOS-**Spracheingabe**: Hotkey halten oder antippen, sprechen und den erkannten Text an der Cursorposition einfügen. Unterstützt lokale Modelle, Cloud-Erkennung, Sprachbefehle, Übersetzung und Textoptimierung, Dateitranskription und lokale Historie.
+
+<p align="center">
+  <img src="assets/preview-en.png" alt="Die erkannte Spracheingabe wurde eingefügt" width="840" />
+</p>
 
 - **Produktseite:** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **Handbuch:** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/de/)

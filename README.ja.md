@@ -1,4 +1,15 @@
-# VoiceHotkey Releases（インストーラー公開）
+<p align="center">
+  <img src="assets/app-icon.png" alt="VoiceHotkey アプリアイコン" width="88" />
+</p>
+
+<h1 align="center">VoiceHotkey</h1>
+
+<p align="center"><strong>ショートカットを押して話すだけで、macOSに入力</strong></p>
+
+<p align="center">
+  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>最新版をダウンロード</strong></a> ·
+  <a href="https://voicehotkey.pages.dev/docs/ja/getting-started/install/">インストールガイド</a>
+</p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voicehotkey.pages.dev/)
 [![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
@@ -19,6 +30,10 @@
 ## 製品について
 
 macOS の**音声入力**：ホットキーを長押し、またはタップして話すと、認識後のテキストをカーソル位置に挿入します。端末内モデル、クラウド認識、音声コマンド、翻訳・文章推敲、ファイル文字起こし、ローカル履歴に対応。
+
+<p align="center">
+  <img src="assets/preview-en.png" alt="音声認識したテキストが入力された状態" width="840" />
+</p>
 
 - **製品サイト：** [voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **ユーザーハンドブック：** [voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/ja/)
