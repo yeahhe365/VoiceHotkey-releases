@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VoiceHotkey</title>
+        <item>
+            <title>0.9.4</title>
+            <pubDate>Tue, 13 Oct 2026 02:11:30 +0800</pubDate>
+            <link>https://voicehotkey.pages.dev/</link>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>VoiceHotkey 0.9.4</h2>
+<ul>
+<li>首次激活必须联网；联网验证后可离线使用 Pro 最长 30 天。</li>
+<li>老用户升级后请联网验证一次；增加验证入口和有效期显示。</li>
+<li>精简模型设置，优化文件转写区域和选项位置。</li>
+</ul>
+<p>适用于 Apple Silicon Mac，macOS 14 或更高版本。此版本尚未经过 Apple 公证，也未使用 Apple Developer ID 签名，首次启动可能被 macOS 拦截。</p>
+<p>Online activation and server-signed 30-day offline access. Apple Silicon, macOS 14+. Not notarized or signed with Apple Developer ID.</p>
+]]></description>
+            <enclosure url="https://github.com/yeahhe365/VoiceHotkey-releases/releases/download/v0.9.4/VoiceHotkey-0.9.4.dmg" length="28866078" type="application/octet-stream" sparkle:edSignature="6T9hOpiU9uAWfPpn8WjG7YTPfJmMqgM8yDVbwVzYyIEZAfqHcjabqC5sliaPMKIBJN1t631GzkKX4d3hUqLGBw=="/>
+        </item>
+    </channel>
+</rss>
