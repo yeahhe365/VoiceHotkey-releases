@@ -31,6 +31,13 @@
 
 macOS **语音输入**：按住（或短按）热键说话，识别完成后将文字插入当前光标。支持本机模型、云端识别、语音命令、翻译润色、文件转写与本机历史。
 
+## 产品演示 / Product demo
+
+[![VoiceHotkey 产品演示（48 秒）](https://voicehotkey.pages.dev/assets/video/voicehotkey-zh-CN.jpg?v=20261014-aesthetic)](https://voicehotkey.pages.dev/assets/video/voicehotkey-zh-CN.mp4?v=20261014-aesthetic)
+
+[中文宣传片（48 秒）](https://voicehotkey.pages.dev/assets/video/voicehotkey-zh-CN.mp4?v=20261014-aesthetic) · [English product film (48 sec)](https://voicehotkey.pages.dev/assets/video/voicehotkey-en.mp4?v=20261014-aesthetic)
+
+
 
 - **产品官网**：[voicehotkey.pages.dev](https://voicehotkey.pages.dev/)
 - **用户手册**：[voicehotkey.pages.dev/docs](https://voicehotkey.pages.dev/docs/)
