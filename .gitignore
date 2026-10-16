@@ -1,0 +1,10 @@
+# Never commit installers into git history — use GitHub Releases assets only.
+*.dmg
+*.pkg
+*.zip
+*.app
+*.tar.gz
+*.tgz
+dist/
+releases/
+.DS_Store
